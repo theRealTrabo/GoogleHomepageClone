@@ -1,0 +1,1 @@
+This is my first web development project, in which I followed a course to recreate the Google search homepage using HTML and CSS. The goal of this project was to become familiar with various HTML and CSS techniques and to establish myself as a web developer.
